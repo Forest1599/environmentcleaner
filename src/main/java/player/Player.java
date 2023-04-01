@@ -96,9 +96,9 @@ public class Player extends GameObject{
 		}
 	}
 	
-//	public Rectangle getColissionArea() {
-//		return super.collisionArea;
-//	}
+	public Rectangle getColissionArea() {
+		return super.collisionArea;
+	}
 	
 	public void moveRight(){
 		worldX+=dx;
