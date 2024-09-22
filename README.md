@@ -18,4 +18,4 @@ The **Environmental Cleaner Game** is an educational game developed using Java a
 
 ## Game Preview
 
-![Game Screenshot]((https://github.com/Forest1599/environmentcleaner/blob/master/env_cleaner_game/img/game-img.PNG))
+![Game Screenshot](https://github.com/Forest1599/environmentcleaner/blob/master/env_cleaner_game/img/game-img.PNG)
